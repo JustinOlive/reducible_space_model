@@ -29,7 +29,7 @@ Step 4: open up the file in jupyter lab.
 
 >b. Open up the command prompt for that folder by typing "cmd" into the address bar (left of the search bar).
 
->. Type jupyter lab into the command prompt.
+>c. Type jupyter lab into the command prompt.
 
 >d. This should launch the jupyter lab interface, and you should be able to see the Reducible Space V2 notebook in the file directory bar on the left.
 
@@ -37,19 +37,19 @@ Step 4: open up the file in jupyter lab.
 
 Step 5: prepare the files.
 
->. Go into the sharepoint folder indicated in the handover document.
+>a. Go into the sharepoint folder indicated in the handover document.
 
->. Download the files to the reducible space folder.
+>b. Download the files to the reducible space folder.
 
->. Do any data preparation that is necessary to fill out the building_properties, campus_properties, and inclusion_exclusion_register.
+>c. Do any data preparation that is necessary to fill out the building_properties, campus_properties, and inclusion_exclusion_register.
 
 Note: there are some guidelines in Cell #2 of the notebook which will be helpful in preparing the data.
 
 
 Step 6: testing phase.
 
->. Import the data and run some tests.
+>a. Import the data and run some tests.
 
->. If there are any errors or other problems, you can raise an issue via the "Issues" button on the github page.
+>b. If there are any errors or other problems, you can raise an issue via the "Issues" button on the github page.
 
 >Note: You can look at the "Example" version for some tips on how to show various parts of the code: this is just an uncleaned version which has some of the test code left over from when I was running some checks.
