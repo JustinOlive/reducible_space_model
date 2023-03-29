@@ -31,9 +31,9 @@ Step 4: open up the file in jupyter lab.
 
 >. Type jupyter lab into the command prompt.
 
-d. This should launch the jupyter lab interface, and you should be able to see the Reducible Space V2 notebook in the file directory bar on the left.
+>d. This should launch the jupyter lab interface, and you should be able to see the Reducible Space V2 notebook in the file directory bar on the left.
 
-Note: the file directory can be hidden or revealed using ctrl + B.
+>Note: the file directory can be hidden or revealed using ctrl + B.
 
 Step 5: prepare the files.
 
@@ -52,4 +52,4 @@ Step 6: testing phase.
 
 >. If there are any errors or other problems, you can raise an issue via the "Issues" button on the github page.
 
-Note: You can look at the "Example" version for some tips on how to show various parts of the code: this is just an uncleaned version which has some of the test code left over from when I was running some checks.
+>Note: You can look at the "Example" version for some tips on how to show various parts of the code: this is just an uncleaned version which has some of the test code left over from when I was running some checks.
