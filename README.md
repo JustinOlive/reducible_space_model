@@ -1,6 +1,6 @@
 # reducible_space_model
 
-Update: instructions & clean-up still in progress - completion date will be 29/03/23
+Update: instructions and code are now complete. Program is ready for testing
 
 Step 1: download python and install jupyter lab
 > This is by far the most tedious step and can take hours to troubleshoot when you're just getting started. There is no science to making it work, just persistence and google.
