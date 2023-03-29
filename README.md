@@ -10,16 +10,26 @@ Step 1: download python and install jupyter lab
 Step 2: install pandas using 'pip install pandas' in the command prompt
 > This should be the only other package that might need installing to run the program
 
-Step 3:
+Step 3: download the Reducible Space V2 notebook file
+> Go into the "Reducible Space V2" page, and click on the "Raw" button
+> Rght click on the page anywhere, then click on "Save as"
+> In the "Save as type" bar, select "All files"
+> Add the file suffix ".ipynb" to the end of the "Reducible Space V2" string, then save it in a folder somewhere
 
-Notes from Justine:
-- change the school # variable easily to replicate for other schools
-- does it conclude if space is excess and why? e.g. where under/over across spaces classifications, it aggregates and providers a "decision" re if there is space or not? ANy suggest what discrete spaces are recommended for removal/reducibility?
-- how do we copy this workspace to own GitHub accounts?
-- Is it reliant on local drive info you hold?
-- Can the input file be easily changed and what is the base data and instructions on how to download, upload, update?
+Step 4: open up the file in jupyter lab
+> Go into the folder where the file was saved
+> Open up the command prompt for that folder by typing "cmd" into the address bar (left of the search bar)
+> Type jupyter lab into the command prompt
+> This should launch the jupyter lab interface, and you should be able to see the Reducible Space V2 notebook in the file directory bar on the left
+Note: the file directory can be hidden or revealed using ctrl + B
 
+Step 5: prepare the files
+> Go into the sharepoint folder indicated in the handover document
+> Download the files to the reducible space folder.
+> Do any data preparation that is necessary to fill out the building_properties, campus_properties, and inclusion_exclusion_register.
+Note: there are some guidelines in Cell #2 of the notebook which will be helpful in preparing the data
 
-If you can add to the outputs an explanation of syntax, logic how they work together e.g. what the syntax does outside the context of your code, and how the same syntax solves a specific problem.
-Context, syntax and logic are the pillers of programs. To explain you need to understand all three and how they solve problems.
-
+Step 6: testing phase
+> Import the data and run some tests
+> If there are any errors or other problems, you can raise an issue via the "Issues" button on the github page
+Note: You can look at the "Example" version for some tips on how to show various parts of the code: this is just an uncleaned version which has some of the test code left over from when I was running some checks
